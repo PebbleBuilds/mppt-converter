@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VOUT_ADC Pin=C8-2
+Added Pin To Net: NetName=VIN_ADC Pin=C9-2
+Added Pin To Net: NetName=VIN_ADC Pin=U5-23
+Added Pin To Net: NetName=VOUT_ADC Pin=U5-24

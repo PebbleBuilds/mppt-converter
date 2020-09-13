@@ -1,0 +1,6 @@
+Change Component Comment : Designator=U1 Old Comment=Comment New Comment=KF1000-2P
+Change Component Comment : Designator=U2 Old Comment=Comment New Comment=KF1000-2P
+Added Pin To Net: NetName=VIN Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VOUT Pin=U2-1
+Added Pin To Net: NetName=VIN Pin=U2-2

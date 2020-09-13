@@ -1,0 +1,58 @@
+PCAD Importer Log
+Project : Common-Parts-Library.LibPkg
+
+Section : C:\EngSci\Year 2\Term 2\Praxis III\PCB\Common-Parts-Library.lia
+    Section : PCB Library - Common-Parts-Library.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token L7812CV-DG On Line 573
+            Warning - 1 : Skipping Token TC427CPA On Line 609
+            Warning - 1 : Skipping Token PMIC-CJ78M05 On Line 690
+            Warning - 1 : Skipping Token ATMEGA328P-PU On Line 714
+            Warning - 1 : Skipping Token attachedSymbol On Line 989
+            Warning - 1 : Skipping Token attachedSymbol On Line 1020
+            Warning - 1 : Skipping Token attachedSymbol On Line 1057
+            Warning - 1 : Skipping Token attachedSymbol On Line 1110
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*TO-220][Primary] associated with PCAD Component [PMIC-L7805CV-DG(TO-220)] has been renamed to PCB FootPrint [*TO-220_PMIC-L7805CV-DG(TO-220)(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - Common-Parts-Library.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token padStyleDef On Line 57
+            Warning - 1 : Skipping Token padStyleDef On Line 69
+            Warning - 1 : Skipping Token padStyleDef On Line 81
+            Warning - 1 : Skipping Token padStyleDef On Line 93
+            Warning - 1 : Skipping Token multiLayer On Line 168
+            Warning - 1 : Skipping Token layerContents On Line 173
+            Warning - 1 : Skipping Token layerContents On Line 180
+            Warning - 1 : Skipping Token layerContents On Line 186
+            Warning - 1 : Skipping Token layerContents On Line 195
+            Warning - 1 : Skipping Token multiLayer On Line 211
+            Warning - 1 : Skipping Token layerContents On Line 221
+            Warning - 1 : Skipping Token layerContents On Line 226
+            Warning - 1 : Skipping Token layerContents On Line 232
+            Warning - 1 : Skipping Token layerContents On Line 239
+            Warning - 1 : Skipping Token multiLayer On Line 253
+            Warning - 1 : Skipping Token layerContents On Line 259
+            Warning - 1 : Skipping Token layerContents On Line 265
+            Warning - 1 : Skipping Token layerContents On Line 273
+            Warning - 1 : Skipping Token layerContents On Line 277
+            Warning - 1 : Skipping Token multiLayer On Line 288
+            Warning - 1 : Skipping Token layerContents On Line 318
+            Warning - 1 : Skipping Token layerContents On Line 325
+            Warning - 1 : Skipping Token layerContents On Line 448
+        EndSection
+
+        Section : Generating SCH Library - Common-Parts-Library.SchLib
+            Warning : Component [PMIC-L7805CV-DG(TO-220)] - no symbol definition found for attached symbol name [PMIC-CJ78M05] that has the same number of pins : symbol definition pins [1] <> attached symbol pins [4].
+            Warning - 0 : PCAD Pattern Graphics [*TO-220][Primary] associated with PCAD Component [PMIC-L7805CV-DG(TO-220)] has been renamed to PCB FootPrint [*TO-220_PMIC-L7805CV-DG(TO-220)(Primary)].
+        EndSection
+    EndSection
+EndSection

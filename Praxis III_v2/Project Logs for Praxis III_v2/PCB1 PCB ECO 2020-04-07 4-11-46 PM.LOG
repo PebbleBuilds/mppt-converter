@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=Sheet1 Member=H1
+Added Component: Designator=ICSP(3x2 Header)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MISO Pin=ICSP-1
+Added Pin To Net: NetName=+5V Pin=ICSP-2
+Added Pin To Net: NetName=SCK Pin=ICSP-3
+Added Pin To Net: NetName=MOSI Pin=ICSP-4
+Added Pin To Net: NetName=RESET Pin=ICSP-5
+Added Pin To Net: NetName=GND Pin=ICSP-6
+Added Member To Class: ClassName=Sheet1 Member=Component ICSP ISCPHeader3x2
